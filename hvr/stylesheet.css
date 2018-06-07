@@ -1,0 +1,33 @@
+/* CSS Document */
+
+body{
+	padding:0px;
+	margin:0px;
+}
+c1{
+	height:450px;
+	margin-left:50px;
+	width:26%;
+	background-color:#00FFFF;
+}	
+#start{
+	height:100px;
+	width:277px; 
+	margin-top:25px;
+}
+#pic1{
+	margin-left:15px;
+}
+#head1{
+	margin-left:30px; 
+	padding-left:20px; 
+	padding-right:30px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:18px;
+}
+#content1{ 
+	margin-top:30px; 
+	margin-left:15px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+}

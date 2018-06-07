@@ -1,0 +1,71 @@
+/* CSS Document */
+body{
+	padding:0px;
+	margin:0px;
+}	
+#header2{
+	height:400px;
+	width:100%;
+	background-color:#280028;
+	margin-top:0px;
+}
+#header2 #header3{
+	height:200px;
+	width:500px;
+	background-color:#CCCCCC;
+	padding:0px;
+	margin-left:100px;
+	float:left;
+}
+#text1{
+	margin-left:20px;
+	margin-top:0px;
+
+}
+#text2{
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	margin-left:20px;
+	margin-top:30px;
+	
+}
+#header2 #slider1{
+	width:10px;
+	height:10px;
+	margin-left:-400px;
+	
+
+}
+.holder{
+	background-color:#CCCCCC;
+	padding-top:3%;
+	margin-left:8.5%;
+	float:left;
+	height:400px;
+	width:22%;
+	margin-top:2%;
+}
+#start{
+	height:100px;
+	width:277px; 
+	margin-top:-20px;
+}
+#pic1{
+	margin-left:15px;
+}
+#head1{
+	margin-left:110px; 
+	padding-left:10px; 
+	padding-right:10px; 
+	height:100px; font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:18px;
+}
+#content1{
+	height:90px; 
+	width:277px; 
+	margin-top:30px; 
+	margin-left:15px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+}

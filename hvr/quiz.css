@@ -1,0 +1,650 @@
+
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background:#FFC;
+	font-family:"Times New Roman", Times, serif;
+}
+.table-striped{
+	background:;
+}
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style2 {
+	color:#330066;
+	font-size:24px;
+	font-weight: bold;
+	text-align:center;
+}
+.style4 {
+	color: #000000;
+	font-size:18px;
+	font-weight: bold;
+}
+.style5 {color: #990033;
+
+}
+.style6 {color: #ECE9D8}
+.style7 {
+	color: #993300;
+	font-weight: bold;
+}
+.style8 {
+	color: #000000;
+	font-size:18px;
+	font-weight: bold;
+}
+.style9{
+	color:#F00;
+	font-size:32px;
+	font-weight: bold;
+}
+.style10{
+	color:#00F;
+	font-size:18px;
+	font-weight: bold;
+}
+.style11{
+	color:#F00;
+	font-size:24px;
+	font-weight: bold;
+	text-align:center;
+}
+a:link {
+	color: #330066;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+a:visited {
+	color: #330066;
+	text-decoration: none;
+}
+.head1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+.errors {
+
+	color: #FF0000;
+	font-weight: bold;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+.tans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#00CC66 ;
+}
+.fans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#FF0000 ;
+}
+
+*
+{
+margin:0px;
+padding:0px;
+}
+
+.header
+{
+height:90px;
+width:100%;
+background:#f1f1f1;
+margin-left:95px;
+padding-left:40px;
+padding-top:20px;
+height:50px;
+width:200px;
+color:#000066;
+font-family:Algerian;
+font-size:24px;
+}
+#row1
+{
+background-color: #CCCCCC;
+height:900px;
+width:1100px;  /*1505*/
+margin-top:-40px;
+
+}
+#t0
+{
+height:900px;
+width:300px;
+background-color:#9A9A9A;
+margin-left:10px;
+padding-left:40px;
+margin-top:0px;
+padding-top:30px;
+float:left;
+}
+#t0 a:before
+{
+content:">>";
+font-weight:bold;
+color:#ff8a63;
+text-decoration:none;
+}
+#lang      
+{
+
+	background-color:#ededed;
+	height:900px;
+	width:1080px;
+	margin-left:34px;
+}
+
+/* first box of html*/
+/*#lang1
+{
+margin-left:171px;
+margin-top:-5px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}*/
+
+#about
+{
+height:1010px;
+width:970px;
+background:#ebebeb;
+margin-left:80px;
+}
+
+#content
+{
+height:1000px;
+width:1000px;
+background:#009966;
+margin-top:40px;
+margin-left:36px;
+
+}
+#btn1
+{
+
+border-radius:9px;
+background-color: #87c71d;
+margin-left:0px;
+/*margin-top:10px;
+padding-top:20px;
+padding-left:60px;
+*/box-shadow:-20px 10px 10px gray;
+color:#FFFFFF;
+font-size:15px;
+}
+
+#htm
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:5px;
+margin-top:-90px;
+}
+
+.btn1
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/* second box of CSS*/
+
+#lang2
+{
+margin-left:471px;
+margin-top:-260px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}
+
+#btn2
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color: #07b3d3;
+margin-left:36px;
+margin-top:10px;
+padding-top:50px;
+box-shadow:-20px 10px 10px gray;
+}
+
+#htm1
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:5px;
+margin-top:-90px;
+}
+
+.btn2
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/*   java tutorial box*/
+#lang3
+{
+margin-left:753px;
+margin-top:-260px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}
+
+#btn3
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color: #555555;
+margin-left:36px;
+margin-top:10px;
+padding-top:50px;
+box-shadow:-20px 10px 10px gray;
+}
+
+#java
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:5px;
+margin-top:-90px;
+}
+
+.btn2
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/*   SQL tutorial box design*/
+
+#lang4
+{
+margin-left:178px;
+margin-top:-9px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}
+
+#btn4
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color:#ff9900;
+margin-left:36px;
+margin-top:10px;
+padding-top:50px;
+box-shadow:-20px 10px 10px gray;
+
+}
+
+#sql
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:5px;
+margin-top:-90px;
+}
+
+.btn3
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/*  PHP tutorial design boxx*/
+
+#lang5
+{
+margin-left:479px;
+margin-top:-260px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}
+
+#btn5
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color: #41bc81;
+margin-left:36px;
+margin-top:10px;
+padding-top:50px;
+box-shadow:-20px 10px 10px gray;
+}
+
+#php
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:5px;
+margin-top:-90px;
+}
+
+.btn4
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/*   Jquery tutorial box design*/
+
+#lang6
+{
+margin-left:763px;
+margin-top:-260px;
+height:250px;
+width:261px;
+background-color: #FFFFFF;
+}
+
+#btn6
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color: #6a8ce9;
+margin-left:28px;
+margin-top:10px;
+padding-top:50px;
+box-shadow:-20px 10px 10px gray;
+}
+
+#jquery
+{
+height:50px;
+width:100px;
+color: #000000;
+float:right;
+margin-right:14px;
+margin-top:-90px;
+}
+
+.btn5
+{
+width:200px;
+height:50px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+/* references div*/
+
+#rfe
+{ 
+background-color:#FFFFFF;
+width:270px;
+float:right;
+height:480px;
+margin-right:40px;
+}
+
+#rfe a:before
+{
+content:">>";
+font-weight:bold;
+color:#ff8a63;
+text-decoration:none;
+}
+
+#web
+{
+width:489px;
+height:200px;
+margin-left:192px;
+background-color:#f1f1f1;
+border-radius:5px;
+}
+
+.bt
+{
+width:200px;
+height:54px;
+margin-left:0px;
+margin-top:15px;
+margin-bottom:5px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+}
+
+.btn-default:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+#fblk
+{
+width:50px;
+height:20px;
+background-color:#CCCCCC;
+border-radius:8px;
+
+}
+
+/*#L1    /* the HTML LOGO BOX DESIGN
+{
+background-color: #009999;
+width:300px;
+height:300px;
+margin-top:0px;
+//font-size:36px;
+
+}
+
+#l1               /*html div 
+{
+background-color: #FFFFFF;
+margin-left:160px;
+width:100px;
+height:50px;
+margin-top:90px;
+padding-top:120px;
+font-size:36px;
+}
+
+#L2     /*2nd logo inside the L1 div
+{
+height:100px;
+width:120px;
+border-radius:9px;
+background-color:#000000;
+margin-left:30px;
+margin-top:-86px;
+box-shadow:10px 10px 10px gray;
+}
+
+.tutbtn    /*  button class div
+{
+width:160px;
+height:40px;
+color:#FFFFFF;
+//margin-top:50px;
+}
+
+a.btn        /*inside the tutbtn class btn
+{
+background-color:#CCCCCC;
+border-radius:6px;
+margin-top:150px;
+margin-left:26px;
+width:250px;
+height:90px;
+font-size:18px;
+}
+
+a.btn:hover
+{
+background-color:#000000;
+}
+
+/*.tutbtn1    /*  button class div*/
+/*{
+width:224px;
+height:40px;
+color:#FFFFFF;
+//margin-top:50px;
+}
+
+/*.htmlbtn
+{
+height:50px;
+width:160px;
+margin-top:20px;
+margin-left:30px;
+background-color:#FFFFFF;
+}*/
+
+
+/*a.btn1*/       /*inside the tutbtn class btn*/
+/*{
+background-color:#CCCCCC;
+border-radius:6px;
+margin-top:170px;
+margin-left:26px;
+width:250px;
+height:90px;
+font-size:18px;
+text-decoration:none;
+}
+
+a.btn1:hover
+{
+background-color:#000000;
+}*/
+
+#rowspace
+{
+	margin-top:40px;
+}
+
+#menuitems
+{
+	height:60px;
+}
+
+#menu1
+{
+
+	padding:25px;
+}
+
+#menuitems a:hover
+{
+	background-color:#000000;
+}
